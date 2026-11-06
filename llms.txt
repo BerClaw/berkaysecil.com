@@ -5,7 +5,7 @@
 Not to be confused with other people named Berkay Secil or Ali Berkay Secil.
 
 ## Career
-- Independent (2026–): building with a team of AI agents he designed; main project Tyche (https://tyche.so), an AI career agent
+- Independent (2026–): building with a team of AI agents he designed; main project Tyche (https://tyche.so), an autonomous career agent, in private beta
 - Eastern Europe Growth Lead, Coinbase / Base (2026)
 - Türkiye Country Lead, Coinbase / Base (2025–2026)
 - Chief Growth Officer, BiLira (2024–2025): Turkish lira stablecoin and exchange
@@ -20,6 +20,20 @@ Not to be confused with other people named Berkay Secil or Ali Berkay Secil.
 - Market launches, founder and developer ecosystems, lifecycle and retention, partner campaigns
 - Running his own work on a team of AI agents he designed and operates
 - Advising early-stage founders, sourcing promising startups and connecting them with investors
+
+## Speaking
+- Panelist, "The Death of Traditional Teams (Thanks to AI)", Money Motion, Zagreb, March 2026
+- Speaker, "The Gravity of Base: How the Agent Economy Found Its Home", Crypto Community Conference, Poland, 2026
+- Speaker for Base, ETH Belgrade community meetup, 2025
+- Base Türkiye builder events, Paribu Code Prix and the ITU Ginova Jump Start demo day final, Istanbul, 2025
+
+## Point of view
+- The best time to join a category is before anyone agrees it's one.
+- A new market doesn't reward the person with the playbook. It rewards whoever figures it out and is right.
+- Ecosystem growth is a funnel, and launched products are the only number that counts.
+- Frontier products get sold on education before they get sold on features.
+- Software was built for people clicking. The next users are agents calling other agents.
+- Fewer, better shots beat volume, in hiring and in growth.
 
 ## Outside work
 - Electronic music production (previously played in bands), photography, calisthenics, travel
