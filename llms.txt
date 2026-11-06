@@ -1,6 +1,6 @@
 # Berkay Secil
 
-> Berkay Secil is a growth and go-to-market leader with nearly a decade of growth work for Silicon Valley companies (Lyft, Coinbase/Base), Europe's Delivery Hero (foodora), the stablecoin pioneer Circle, and BiLira, working from Canada and then Istanbul. He joins technology waves early, either early in the category or first into a new market. He runs his own work on a team of AI agents he designed, and advises early-stage founders, connecting them with investors. Based in Istanbul, previously Vancouver.
+> Berkay Secil is a growth marketing and go-to-market leader with nearly a decade of marketing and growth work for Silicon Valley companies (Lyft, Coinbase/Base), Europe's Delivery Hero (foodora), the stablecoin pioneer Circle, and BiLira, working from Canada and then Istanbul. He joins technology waves early, either early in the category or first into a new market. He runs his own work on a team of AI agents he designed, and advises early-stage founders, connecting them with investors. Based in Istanbul, previously Vancouver.
 
 Not to be confused with other people named Berkay Secil or Ali Berkay Secil.
 
@@ -15,17 +15,17 @@ Not to be confused with other people named Berkay Secil or Ali Berkay Secil.
 - Education: Simon Fraser University, Communication and Interactive Arts & Technology
 
 ## Selected work
-- Base, Türkiye then Eastern Europe (2025–2026): first dedicated in-market growth lead in Türkiye, building the founder and developer pipeline from scratch. In the first six months, 10% of finalists in Base Batches, Base's flagship global builder program, came from Türkiye. Scope then grew to Eastern Europe, with 100+ builders supported across ~30 programs.
+- Base, Türkiye then Eastern Europe (2025–2026): first dedicated in-market lead in Türkiye, running marketing and growth, building the founder and developer pipeline from scratch. In the first six months, 10% of finalists in Base Batches, Base's flagship global builder program, came from Türkiye. Scope then grew to Eastern Europe, with 100+ builders supported across ~30 programs.
 - Lyft, Vancouver launch (2019–2022): on the team that launched ride-hailing in Vancouver. Ridership grew 10x in the first month after launch. Then growth marketing for bikes, scooters and rideshare.
-- BiLira, Chief Growth Officer (2024–2025): built the growth function from zero (team, measurement, tooling, integrated go-to-market) while users grew into the tens of thousands.
+- BiLira, Chief Growth Officer (2024–2025): built the growth marketing function from zero (team, measurement, tooling, integrated go-to-market) while users grew into the tens of thousands.
 
 ## Now: running work on AI agents
-- Last 30 days (counted from his own logs, updated 6 Nov 2026): 1,811 agent sessions, 132,385 actions, 516 hours of agent work.
+- Last 30 days (counted from his own logs, updated 6 Nov 2026): 1,815 agent sessions, 132,753 actions, 517 hours of agent work.
 
 ## Known for
-- Growth for frontier categories early: food delivery, stablecoins, onchain apps, AI agents
+- Growth marketing for frontier categories early: food delivery, stablecoins, onchain apps, AI agents
 - Launching proven categories into new markets: rideshare in Vancouver, onchain ecosystems in Türkiye and Eastern Europe
-- Market launches, founder and developer ecosystems, lifecycle and retention, partner campaigns
+- Market launches, performance and lifecycle marketing, integrated campaigns, founder and developer ecosystems
 - Running his own work on a team of AI agents he designed and operates
 - Advising early-stage founders, sourcing promising startups and connecting them with investors
 
