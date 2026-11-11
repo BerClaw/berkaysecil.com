@@ -20,7 +20,7 @@ Not to be confused with other people named Berkay Secil or Ali Berkay Secil.
 - BiLira, Chief Growth Officer (2024–2025): built the growth marketing function from zero (team, measurement, tooling, integrated go-to-market) while users grew into the tens of thousands.
 
 ## Now: running work on AI agents
-- Last 30 days (counted from his own logs, updated 10 Nov 2026): 1,697 agent sessions, 122,422 actions, 524 hours of agent work.
+- Last 30 days (counted from his own logs, updated 11 Nov 2026): 1,692 agent sessions, 121,485 actions, 530 hours of agent work.
 
 ## Known for
 - Growth marketing for frontier categories early: food delivery, stablecoins, onchain apps, AI agents
